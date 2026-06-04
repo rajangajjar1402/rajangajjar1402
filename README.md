@@ -1,10 +1,12 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:e96c4b&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=fff5ee&fontAlignY=45&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=65&descSize=18&descColor=ffd4c2&animation=blinking" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=70&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=68&descSize=18&descAlign=70&descColor=a8d8ea&reversal=false" />
 </div>
+
+<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+Data+Pipelines+That+Scale+%F0%9F%9A%80;Turning+Raw+Data+into+Business+Gold+%F0%9F%8F%86;ETL+%7C+ELT+%7C+Medallion+Architecture+%F0%9F%94%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=a8d8ea&center=true&vCenter=true&repeat=true&width=580&height=45&lines=Building+scalable+data+pipelines+from+scratch;ETL+%2F+ELT+%7C+Medallion+Architecture+%7C+Cloud+DWH;Snowflake+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+Spark+%C2%B7+AWS)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,11 +14,24 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajangajjar1402@gmail.com)
-[![Oracle](https://img.shields.io/badge/Oracle_Certified-FF0000?style=for-the-badge&logo=oracle&logoColor=white)](https://linkedin.com)
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajan%20Gajjar-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-rajangajjar1402-c5221f?style=flat-square&logo=gmail&logoColor=white)](mailto:rajangajjar1402@gmail.com)
+&nbsp;
+[![Oracle](https://img.shields.io/badge/Oracle%20Certified-Analytics%20Cloud%202025-c74634?style=flat-square&logo=oracle&logoColor=white)](https://linkedin.com)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2c5364&label=Profile+Views)
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Data%20Engineering%20Roles-2e7d32?style=flat-square&logo=checkmarx&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-37474f?style=flat-square&logo=google-maps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Best%20Performer-Q3%202025%20%F0%9F%8F%85-1565c0?style=flat-square" />
 </div>
 
 ---
@@ -203,26 +218,6 @@ R.C. Technical Institute · 2018–2021
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=2&section=footer" />
-
-<div align="center">
-
-<br>
-
-```
-╔═══════════════════════════════════════════════════╗
-║   "In God we trust; all others must bring data."  ║
-║                         — W. Edwards Deming       ║
-╚═══════════════════════════════════════════════════╝
-```
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajangajjar1402@gmail.com)
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e96c4b,50:302b63,100:0f0c29&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=ffd4c2&fontAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=a8d8ea&fontAlignY=55&fontAlign=30&reversal=true" />
 
 </div>
