@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d2b,50:0a3d62,100:1e8bc3&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=48&fontAlign=68&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=67&descSize=18&descAlign=68&descColor=a8d8f0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0533,50:2d1b69,100:11998e&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=f0e6ff&fontAlignY=45&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=64&descSize=18&descColor=c9b8ff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -223,6 +223,6 @@ R.C. Technical Institute · 2018–2021
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1e8bc3,50:0a3d62,100:0d0d2b&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=a8d8f0&fontAlignY=55&fontAlign=32&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:11998e,50:2d1b69,100:1a0533&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=c9b8ff&fontAlignY=55&reversal=true" />
 
 </div>
