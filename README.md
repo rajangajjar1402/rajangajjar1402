@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=250&section=header&text=Rajan%20Gajjar&fontSize=72&fontColor=00d4ff&fontAlignY=42&desc=⚡%20Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=62&descSize=20&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=70&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=68&descSize=18&descAlign=70&descColor=a8d8ea&reversal=false" />
 </div>
 
 <div align="center">
@@ -154,23 +154,6 @@ AWS S3 ──► Snowflake Staging
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&background=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 <table align="center">
@@ -204,18 +187,6 @@ R.C. Technical Institute · 2018–2021
 
 ---
 
-## 🎯 2025 Roadmap
-
-- [x] 🏅 Best Performer Q3 2025 — TELUS Digital
-- [x] 🏆 Oracle Analytics Cloud Certified
-- [ ] ☁️ AWS Certified Data Engineer — Associate
-- [ ] ⚡ Master Apache Flink for real-time streaming
-- [ ] 🧱 Build full Lakehouse on Databricks / Delta Lake
-- [ ] ✍️ Publish technical blogs on data pipeline patterns
-- [ ] 🌍 Contribute to open-source data engineering tools
-
----
-
 <div align="center">
 
 ### 🤝 Let's Build Something Remarkable
@@ -232,6 +203,26 @@ R.C. Technical Institute · 2018–2021
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=2&section=footer" />
+
+<div align="center">
+
+<br>
+
+```
+╔═══════════════════════════════════════════════════╗
+║   "In God we trust; all others must bring data."  ║
+║                         — W. Edwards Deming       ║
+╚═══════════════════════════════════════════════════╝
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajangajjar1402@gmail.com)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=a8d8ea&fontAlignY=55&reversal=false" />
 
 </div>
