@@ -28,8 +28,6 @@
 &nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle%20Certified-Analytics%20Cloud%202025-c74634?style=flat-square&logo=oracle&logoColor=white)](https://linkedin.com)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2d1b69&label=Profile+Views)
-
 </div>
 
 <br>
