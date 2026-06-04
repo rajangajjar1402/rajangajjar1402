@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=70&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=68&descSize=18&descAlign=70&descColor=a8d8ea&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a1a,100:003333&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=00ffcc&fontAlignY=42&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=62&descSize=18&descColor=66ffdd&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -218,8 +218,11 @@ R.C. Technical Institute · 2018–2021
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajangajjar1402@gmail.com)
+
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=a8d8ea&fontAlignY=55&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003333,60:001a1a,100:000000&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=00ffcc&fontAlignY=65" />
 
 </div>
