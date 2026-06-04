@@ -1,5 +1,13 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:1a0533,100:2d1b69&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=70&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=68&descSize=18&descAlign=70&descColor=c9b8f0&reversal=false" />
+
+<br>
+
+# ✦ &nbsp; Rajan Gajjar &nbsp; ✦
+
+<sub><sup>Data Engineer &nbsp;·&nbsp; Pipeline Architect &nbsp;·&nbsp; Cloud Native</sup></sub>
+
+<br>
+
 </div>
 
 <br>
@@ -218,6 +226,12 @@ R.C. Technical Institute · 2018–2021
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2d1b69,50:1a0533,100:0d0221&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=c9b8f0&fontAlignY=55&fontAlign=30&reversal=true" />
+<br>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     Let's build something remarkable.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
