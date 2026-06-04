@@ -1,12 +1,12 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=70&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=68&descSize=18&descAlign=70&descColor=a8d8ea&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:1a0533,100:2d1b69&height=220&section=header&text=Rajan%20Gajjar&fontSize=68&fontColor=ffffff&fontAlignY=50&fontAlign=70&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20Cloud%20Native&descAlignY=68&descSize=18&descAlign=70&descColor=c9b8f0&reversal=false" />
 </div>
 
 <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=a8d8ea&center=true&vCenter=true&repeat=true&width=580&height=45&lines=Building+scalable+data+pipelines+from+scratch;ETL+%2F+ELT+%7C+Medallion+Architecture+%7C+Cloud+DWH;Snowflake+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+Spark+%C2%B7+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=c9b8f0&center=true&vCenter=true&repeat=true&width=580&height=45&lines=Building+scalable+data+pipelines+from+scratch;ETL+%2F+ELT+%7C+Medallion+Architecture+%7C+Cloud+DWH;Snowflake+%C2%B7+Airflow+%C2%B7+dbt+%C2%B7+Spark+%C2%B7+AWS)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 &nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle%20Certified-Analytics%20Cloud%202025-c74634?style=flat-square&logo=oracle&logoColor=white)](https://linkedin.com)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2c5364&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2d1b69&label=Profile+Views)
 
 </div>
 
@@ -29,9 +29,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Data%20Engineering%20Roles-2e7d32?style=flat-square&logo=checkmarx&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-37474f?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-3d2b6b?style=flat-square&logo=google-maps&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Best%20Performer-Q3%202025%20%F0%9F%8F%85-1565c0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Best%20Performer-Q3%202025%20%F0%9F%8F%85-5b21b6?style=flat-square" />
 </div>
 
 ---
@@ -218,6 +218,6 @@ R.C. Technical Institute · 2018–2021
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=a8d8ea&fontAlignY=55&fontAlign=30&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:2d1b69,50:1a0533,100:0d0221&height=130&section=footer&text=Let%27s%20build%20something%20remarkable&fontSize=22&fontColor=c9b8f0&fontAlignY=55&fontAlign=30&reversal=true" />
 
 </div>
